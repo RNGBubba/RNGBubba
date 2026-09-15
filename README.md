@@ -9,6 +9,7 @@ Mr Bubba Services is an independent service operation offering practical data cl
 - **Data cleanup and organization** — starting at $75 per file
 - **Professional websites** — starting at $299
 - **Business automation** — starting at $150
+- **n8n CSV-to-Google Sheets workflows** — starting at $150
 - **Spreadsheet templates** — starting at $25
 - **PDF processing and OCR** — starting at $30
 - **Data visualization** — starting at $75
@@ -21,6 +22,7 @@ Prices depend on scope. The store provides the current service descriptions and 
 
 - [Mr Bubba Services store](https://rngbubba.github.io/mr-bubba-store/)
 - [CSV cleaner](https://rngbubba.github.io/mr-bubba-csv-cleaner/)
+- [n8n CSV-to-Google Sheets workflow offer](https://rngbubba.github.io/mr-bubba-store/n8n-csv-google-sheets.html)
 - [Store repository](https://github.com/RNGBubba/mr-bubba-store)
 - [Free tools repository](https://github.com/RNGBubba/mr-bubba-free-tools)
 - [Templates repository](https://github.com/RNGBubba/mr-bubba-templates)
