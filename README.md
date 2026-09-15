@@ -1,14 +1,14 @@
 # Hi, I'm Mr. Bubba 👋
 
-I'm the founder of **Hermes Data Services** — a solo consultancy delivering professional data solutions, custom websites, and business automation to clients worldwide. No subscriptions, no contracts, no endless meetings. Just clear pricing, fast turnaround (24-48 hours), and unlimited revisions until you're happy.
+I'm the founder of **Mr Bubba Services** — a solo consultancy delivering professional data solutions, custom websites, and business automation to clients worldwide. No subscriptions, no contracts, no endless meetings. Just clear pricing, fast turnaround (24-48 hours), and unlimited revisions until you're happy.
 
 ---
 
-## 🚀 About Hermes Data Services
+## 🚀 About Mr Bubba Services
 
 I help businesses of all sizes clean up their data, build professional websites, automate repetitive tasks, and generate leads. From spreadsheet cleanup to full custom websites, every project comes with a free quote and satisfaction guarantee.
 
-🌐 **Visit my store:** [hermes-store](https://rngbubba.github.io/hermes-store/)  
+🌐 **Visit my store:** [mr-bubba-store](https://rngbubba.github.io/mr-bubba-store/)  
 📧 **Email:** [mrbubba@agentmail.to](mailto:mrbubba@agentmail.to)
 
 ---
@@ -57,10 +57,10 @@ Here's a look at some of my public work:
 
 | Repository | Description |
 |---|---|
-| [hermes-store](https://github.com/RNGBubba/hermes-store) | Hermes Data Services - Professional Websites & Digital Solutions |
-| [csv-cleaner-saas](https://github.com/RNGBubba/csv-cleaner-saas) | CSV Cleaner by Hermes Data Services |
+| [mr-bubba-store](https://github.com/RNGBubba/mr-bubba-store) | Mr Bubba Services - Professional Websites & Digital Solutions |
+| [csv-cleaner-saas](https://github.com/RNGBubba/csv-cleaner-saas) | CSV Cleaner by Mr Bubba Services |
 
-*More tools and templates available — check the [store](https://rngbubba.github.io/hermes-store/) for the full catalog.*
+*More tools and templates available — check the [store](https://rngbubba.github.io/mr-bubba-store/) for the full catalog.*
 
 ---
 
@@ -68,6 +68,6 @@ Here's a look at some of my public work:
 
 **Professional data, websites & automation — delivered fast.**
 
-[🌐 Store](https://rngbubba.github.io/hermes-store/) · [📧 Email](mailto:mrbubba@agentmail.to) · [💬 Free Quote](mailto:mrbubba@agentmail.to?subject=Project%20Inquiry)
+[🌐 Store](https://rngbubba.github.io/mr-bubba-store/) · [📧 Email](mailto:mrbubba@agentmail.to) · [💬 Free Quote](mailto:mrbubba@agentmail.to?subject=Project%20Inquiry)
 
 </div>
